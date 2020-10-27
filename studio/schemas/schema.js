@@ -16,7 +16,6 @@ import figure from './objects/figure';
 import internalLink from './objects/internalLink';
 import link from './objects/link';
 import portableText from './objects/portableText';
-import testimonial from './objects/testimonial'
 import simplePortableText from './objects/simplePortableText';
 
 // Landing page sections
@@ -45,6 +44,5 @@ export default createSchema({
     simplePortableText,
     siteConfig,
     textSection,
-    testimonial,
   ]),
 });
